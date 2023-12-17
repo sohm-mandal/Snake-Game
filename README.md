@@ -1,6 +1,6 @@
 # Snake-Game
-About 
-This Snake Game program is a straightforward game written in C++. It allows the player to control a snake within a bounded area, with the goal of collecting food and growing longer while avoiding collision with the boundaries or its own body.
+This Snake Game program is a straightforward game written in C++. 
+It allows the player to control a snake within a bounded area, with the goal of collecting food and growing longer while avoiding collision with the boundaries or its own body.
 
 Features
 
